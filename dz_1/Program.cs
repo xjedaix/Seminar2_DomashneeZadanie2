@@ -5,9 +5,11 @@
 // 918 -> 1
 
 Console.Clear();
-Console.Write("Введите трехзначное число: ")
+Console.Write("Введите трехзначное число: ");
 int num = int.Parse(Console.ReadLine());
-int result = (num / 100) * 10 + num % 10;
 
-Console.WriteLine ($"{num} -> {result}");
-Console.WriteLine ($"{num} -> {num/100}{num%10}");
+if (num < 1000)
+{
+    num /=10;
+}
+Console.WriteLine(num%10);

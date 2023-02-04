@@ -1,0 +1,15 @@
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\bin\Debug\net6.0\dz_4.exe
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\bin\Debug\net6.0\dz_4.deps.json
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\bin\Debug\net6.0\dz_4.runtimeconfig.json
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\bin\Debug\net6.0\dz_4.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\bin\Debug\net6.0\dz_4.pdb
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\dz_4.csproj.AssemblyReference.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\dz_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\dz_4.AssemblyInfoInputs.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\dz_4.AssemblyInfo.cs
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\dz_4.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\dz_4.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\refint\dz_4.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\dz_4.pdb
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\dz_4.genruntimeconfig.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\Seminar2_DomashneeZadanie2\dz_4\obj\Debug\net6.0\ref\dz_4.dll
