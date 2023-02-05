@@ -9,8 +9,11 @@ Console.Clear();
 Console.Write("Введите номер дня недели: "); // WriteLine - выводит все что есть и переносит на новую строчку, Write - выводит на этой же строчке
 int numberdayofweek = int.Parse(Console.ReadLine()); 
 
+if (numberdayofweek == 6 || numberdayofweek == 7) 
+{
+  Console.WriteLine("(этот день выходной) -> да");
+}
 if(numberdayofweek < 1 || numberdayofweek > 7) // || - это означает "или", т.е если меньше 1 то переходим в цикл, если больше 7 то выходим из цикла
-if(numberdayofweek < 6 || numberdayofweek > 7) 
 {
     Console.WriteLine("Введен неправильный номер ");
     return; // программа заканчивает дальнейшее действие, закончивает в этом случае действие
